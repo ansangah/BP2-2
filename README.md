@@ -1,4 +1,4 @@
-# Basic Project 실습 2-2
+# BP 실습 2-2
 Vue2 문법을 Vue3 문법으로
 
 ## 제출 정보
