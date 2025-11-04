@@ -1,16 +1,17 @@
 <template>
-  <E02Reactive />
+  <E04Directives />
 </template>
 
 <script lang="ts">
 import { defineComponent } from 'vue';
 import E01Instance from "@/components/example1/E-02-reactive.vue";
-import E02Reactive from '@/components/example1/E-02-reactive.vue';
+import E02Reactive from '@/components/example1/E-04-directives.vue';
+import E04Directives from './components/example2/E-04-directives.vue';
 
 export default defineComponent({
   name: 'App',
   components: {
-    E02Reactive
+    E04Directives
   }
 });
 </script>
