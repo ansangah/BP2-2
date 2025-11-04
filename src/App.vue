@@ -1,9 +1,9 @@
 <template>
-  <E05ParentComponent />
+  <E06ParentComponent />
 </template>
 
 <script setup lang="ts">
-import E05ParentComponent from "./components/example3/ParentComponent.vue";
+import E06ParentComponent from "./components/example4/ParentComponent.vue";
 </script>
 
 <style>
