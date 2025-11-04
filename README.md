@@ -1,5 +1,5 @@
 # BP 실습 2-2
-Vue2 문법을 Vue3 문법으로
+Vue2 문법을 Vue3 문법으로 전환
 
 ## 제출 정보
 - **GitHub 저장소**: <https://github.com/ansangah/BP2-2>
