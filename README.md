@@ -1,7 +1,7 @@
 # Vue Practice Demo
 
 ## 제출 정보
-- **GitHub 저장소**: <https://github.com/your-github-account/Vue-Practive-Demo-main>
+- **GitHub 저장소**: <https://github.com/ansangah/BP2-2>
 - **변경 요약**:
   - 모든 예제 컴포넌트를 Vue 2 Options API에서 Vue 3 Composition API 및 `<script setup>` 문법으로 마이그레이션.
   - `ParentComponent.vue`, `ChildComponent.vue` 등 예제 간 통신 코드 최신 Composition API 패턴 적용.
