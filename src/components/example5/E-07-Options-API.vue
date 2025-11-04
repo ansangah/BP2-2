@@ -47,20 +47,11 @@ const greet = () => {
   message.value = `Hello, ${fullName.value}!`;
 };
 
-const resetGreetCount = () => {
-  greetCount.value = 0;
-};
-
 watch(greetCount, (newValue, oldValue) => {
   console.log(`Greet count changed from ${oldValue} to ${newValue}`);
   if (newValue >= 3) {
     message.value = "That's enough greetings for now!";
   }
-});
-
-defineExpose({
-  greet,
-  resetGreetCount
 });
 
 onBeforeMount(() => {
