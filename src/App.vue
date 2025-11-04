@@ -1,19 +1,9 @@
 <template>
-  <E04Directives />
+  <E05ParentComponent />
 </template>
 
-<script lang="ts">
-import { defineComponent } from 'vue';
-import E01Instance from "@/components/example1/E-02-reactive.vue";
-import E02Reactive from '@/components/example1/E-04-directives.vue';
-import E04Directives from './components/example2/E-04-directives.vue';
-
-export default defineComponent({
-  name: 'App',
-  components: {
-    E04Directives
-  }
-});
+<script setup lang="ts">
+import E05ParentComponent from "./components/example3/ParentComponent.vue";
 </script>
 
 <style>
