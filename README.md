@@ -17,15 +17,15 @@ Vue2 문법을 Vue3 문법으로 전환
 
   | 흐름 | 캡처 |
   | --- | --- |
-  | E01 화면 | ![E01](src/assets/ScreenShot/E01.png) |
-  | E02 화면 | ![E02](src/assets/ScreenShot/E02.png) |
-  | E03 화면 | ![E03](src/assets/ScreenShot/E03.png) |
-  | E04 화면 | ![E04](src/assets/ScreenShot/E04.png) |
-  | E05 화면 | ![E05](src/assets/ScreenShot/E05.png) |
-  | E06 화면 | ![E06](src/assets/ScreenShot/E06.png) |
-  | E07 화면 | ![E07](src/assets/ScreenShot/E07.png) |
-  | E08 화면 | ![E08](src/assets/ScreenShot/E08.png) |
-  | E09 화면 | ![E09](src/assets/ScreenShot/E09.png) |
-  | E10 화면 | ![E10](src/assets/ScreenShot/E10.png) |
-  | E11 화면 | ![E11](src/assets/ScreenShot/E11.png) |
-  | E12 화면 | ![E12](src/assets/ScreenShot/E12.png) |
+  | E01 | ![E01](src/assets/ScreenShot/E01.png) |
+  | E02 | ![E02](src/assets/ScreenShot/E02.png) |
+  | E03 | ![E03](src/assets/ScreenShot/E03.png) |
+  | E04 | ![E04](src/assets/ScreenShot/E04.png) |
+  | E05 | ![E05](src/assets/ScreenShot/E05.png) |
+  | E06 | ![E06](src/assets/ScreenShot/E06.png) |
+  | E07 | ![E07](src/assets/ScreenShot/E07.png) |
+  | E08 | ![E08](src/assets/ScreenShot/E08.png) |
+  | E09 | ![E09](src/assets/ScreenShot/E09.png) |
+  | E10 | ![E10](src/assets/ScreenShot/E10.png) |
+  | E11 | ![E11](src/assets/ScreenShot/E11.png) |
+  | E12 | ![E12](src/assets/ScreenShot/E12.png) |
