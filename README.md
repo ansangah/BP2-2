@@ -1,4 +1,5 @@
-# Vue Practice Demo
+# Basic Project 실습 2-2
+Vue2 문법을 Vue3 문법으로
 
 ## 제출 정보
 - **GitHub 저장소**: <https://github.com/ansangah/BP2-2>
